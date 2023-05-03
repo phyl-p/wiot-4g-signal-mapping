@@ -1,0 +1,23 @@
+Location ID,Description,Lat,Long,4G RSSI signal,4G download rate,4G upload rate
+A,McCormick Road,38.033688,-78.510445,-80,2.5,4.6
+B,Darden Courtyard,38.033081,-78.509834,-75,4.1,4.6
+C,Thornton Courtyard,38.032673,-78.510193,-80,0.9,4.7
+D,Between Small and Mech,38.03207,-78.51104,-68,19.1,4.7
+E,Engineer's Way,38.03244,-78.510757,-72,10.8,4.7
+F,Behind Olsson,38.031811,-78.510399,-78,6,4.6
+G,Front of Thornton,38.033649,-78.509476,-82,1.9,4.7
+H,Engineer's Way North,38.03331,-78.510475,-84,1.3,4.7
+I,Behind Mech,38.032776,-78.511375,-70,15.7,7
+J,Behind Small Hall,38.032177,-78.511482,-76,7.7,4.7
+K,E3 Parking,38.031799,-78.511238,-76,7.7,7
+L,Behind Wilsdorf North,38.033768,-78.511208,-60,33.9,6.5
+M,Behind Wilsdorf South,38.033058,-78.51152,-89,0.8,4.7
+N,Behind Chemistry North,38.034546,-78.511772,-77,7.4,5.6
+O,Behind Chemistry South,38.034149,-78.511902,-73,12,4.7
+P,Near AFC,38.032673,-78.512604,-79,5.4,8.4
+Q,Behind Thornton C-Wing,38.032211,-78.510231,-74,9.7,4.7
+R,Near Scott Stadium,38.032604,-78.512543,-81,3.1,8.4
+S,Stadium Parking,38.032001,-78.513481,-80,4.3,7
+T,Bonnycastle,38.034382,-78.511139,-81,2.8,7
+U,Physics,38.033646,-78.509956,-72,13.5,4.7
+V,Near Dorms,38.034447,-78.511772,-73,11,4.6
